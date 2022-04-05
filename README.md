@@ -1,2 +1,2 @@
 # Parallel-Programming
-lab1
+lab
